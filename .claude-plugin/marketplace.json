@@ -1,0 +1,17 @@
+{
+  "name": "indahl-triangulate",
+  "owner": {
+    "name": "Heuremen LLC",
+    "url": "https://indahl.ai"
+  },
+  "plugins": [
+    {
+      "name": "indahl-triangulate",
+      "source": "./",
+      "description": "Put a question to three independent seats run blind, then read where they agree and split. Returns ABOVE, BELOW, CONSISTENT or CANNOT_TELL with what would decide it, and a receipt of every seat's answer. Runs inside your session.",
+      "version": "1.0.0",
+      "category": "research",
+      "homepage": "https://indahl.ai/standard"
+    }
+  ]
+}
